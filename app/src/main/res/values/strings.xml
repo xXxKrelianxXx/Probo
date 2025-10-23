@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetPulse</string>
+    <string name="ping">Ping</string>
+    <string name="ping_description">Check reachability of an address</string>
+    <string name="host_hint">Hostname or IP</string>
+    <string name="ping_action">Send Ping</string>
+    <string name="last_result">Last result</string>
+    <string name="drawer_menu">Menu</string>
+    <string name="drawer_ping">Ping Tool</string>
+</resources>
