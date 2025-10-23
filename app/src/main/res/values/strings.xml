@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">NetPulse</string>
+    <string name="app_name">Probo</string>
     <string name="ping">Ping</string>
     <string name="ping_description">Check reachability of an address</string>
     <string name="host_hint">Hostname or IP</string>
     <string name="ping_action">Send Ping</string>
-    <string name="last_result">Last result</string>
+    <string name="pinging">Pinging...</string>
+    <string name="ping_in_progress">Working on that ping…</string>
+    <string name="ping_failed">Ping failed</string>
+    <string name="ping_enter_host">Enter a host to ping</string>
     <string name="drawer_menu">Menu</string>
     <string name="drawer_ping">Ping Tool</string>
+    <string name="ping_last_result">Latest result</string>
+    <string name="ping_last_result_placeholder">Run a ping to see status and full output.</string>
+    <string name="ping_checked_at">Checked at %1$s</string>
+    <string name="ping_output_unavailable">No output from ping command.</string>
+    <string name="ping_history">Recent history</string>
+    <string name="ping_history_empty">When you run more pings they’ll show up here.</string>
+    <string name="ping_latency_avg">Average latency: %1$.1f ms</string>
+    <string name="ping_packet_summary">%1$d sent • %2$d received</string>
+    <string name="ping_packet_loss">Packet loss: %1$.1f%%</string>
+    <string name="ping_timeout">Ping timed out</string>
+    <string name="ping_unavailable">Ping command unavailable on this device</string>
+    <string name="ping_in_history_label">History entry</string>
 </resources>

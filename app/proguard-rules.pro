@@ -1,2 +1,2 @@
-# ProGuard rules for NetPulse
+# ProGuard rules for Probo
 -dontwarn okhttp3.**

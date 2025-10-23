@@ -8,11 +8,11 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.NetPulse">
+        android:theme="@style/Theme.Probo">
         <activity
-            android:name="com.probo.netpulse.MainActivity"
+            android:name="com.probo.app.MainActivity"
             android:exported="true"
-            android:theme="@style/Theme.NetPulse">
+            android:theme="@style/Theme.Probo">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

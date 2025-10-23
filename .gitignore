@@ -7,3 +7,5 @@
 /captures/
 app/build/
 .gradle
+
+gradle/wrapper/gradle-wrapper.jar
